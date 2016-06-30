@@ -1,3 +1,3 @@
 <?php
-echo "Hello ...here I am testing git deploy";
+echo "Welocme... deploying git commit on server";
 ?>
