@@ -1,3 +1,3 @@
 <?php
-echo "Hi ...here I am testing git deploy on server second ";
+echo "Hello ...here I am testing git deploy";
 ?>
